@@ -77,12 +77,11 @@ The top 3 are not normal returns: two of them are one huge order (74k and 81k un
 
 The shop depends on two things: the Christmas season and a small group of loyal customers. September-November bring 35% of all revenue, and 19% of customers (Champions) bring 62% of it. At the same time only about 1 in 5 new customers buys again in the next month. So the biggest opportunity is to turn first-time buyers into regular ones, ideally before the autumn season starts.
 
-Also worth knowing: 85% of revenue comes from the UK, and 15% of revenue comes from orders without a Customer ID, so RFM and cohorts do not include it.
+Also worth knowing: 85% of revenue comes from the UK, and 15% of revenue comes from orders without a Customer ID, so RFM and cohorts do not include it
 
-## What I would recommend
+## Possible next steps
 
 - a loyalty program for Champions, because they bring most of the money
-- a personal offer for "At risk" customers (on average they bought 4 times but have not come back for ~4 months)
 - a follow-up email after the first order, because about 4 of 5 new customers don't buy again in the next month
 - check the products with high return rate (quality or wrong description on the site)
 
