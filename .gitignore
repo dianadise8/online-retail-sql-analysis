@@ -1,0 +1,15 @@
+# Dataset and database are too big for GitHub - download them instead (see README)
+data/*.csv
+data/*.xlsx
+data/*.db
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
