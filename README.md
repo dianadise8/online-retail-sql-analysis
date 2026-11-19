@@ -3,7 +3,9 @@
 My SQL project on real sales data of a UK online gift shop (Dec 2010 - Dec 2011, about 540k rows).
 I cleaned the data with SQL, split it into 4 tables and answered 5 business questions.
 
-**Tools:** SQLite, SQL, Python (pandas, matplotlib), Jupyter Notebook
+📊 **Interactive dashboard:** [Online Retail Sales Analysis on Tableau Public](https://public.tableau.com/app/profile/diana.krasenko/viz/OnlineRetailSalesAnalysisDK/Dashboard1)
+
+**Tools:** SQLite, SQL, Python (pandas, matplotlib), Jupyter Notebook, Tableau Public
 
 ## Data
 
